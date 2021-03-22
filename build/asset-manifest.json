@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08e2d8d2.chunk.css",
+    "main.js": "/static/js/main.7a0528b8.chunk.js",
+    "main.js.map": "/static/js/main.7a0528b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf5a6fc8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf5a6fc8.js.map",
+    "static/js/2.2a9cbe58.chunk.js": "/static/js/2.2a9cbe58.chunk.js",
+    "static/js/2.2a9cbe58.chunk.js.map": "/static/js/2.2a9cbe58.chunk.js.map",
+    "static/js/3.87d508db.chunk.js": "/static/js/3.87d508db.chunk.js",
+    "static/js/3.87d508db.chunk.js.map": "/static/js/3.87d508db.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.08e2d8d2.chunk.css.map": "/static/css/main.08e2d8d2.chunk.css.map",
+    "static/js/2.2a9cbe58.chunk.js.LICENSE.txt": "/static/js/2.2a9cbe58.chunk.js.LICENSE.txt",
+    "static/media/Chat.css": "/static/media/whatsapp-background.bded4f44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf5a6fc8.js",
+    "static/js/2.2a9cbe58.chunk.js",
+    "static/css/main.08e2d8d2.chunk.css",
+    "static/js/main.7a0528b8.chunk.js"
+  ]
+}
